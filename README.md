@@ -1,2 +1,2 @@
 # mytv
-Mytv.m3u
+Mdytv.m3u
